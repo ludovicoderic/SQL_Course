@@ -29,7 +29,7 @@
 
 ---
 
-### Advanced SQL: Take your SQL skills to the next level.
+## Advanced SQL: Take your SQL skills to the next level.
 
 
 ### 07. **JOINs and UNIONs**
