@@ -31,19 +31,19 @@
 ### Advanced SQL: Take your SQL skills to the next level.
 
 
-1. **JOINs and UNIONs**
+7. **JOINs and UNIONs**
 
     Combine information from multiple tables.
 
-2. **Analytic Functions**
+8. **Analytic Functions**
         
     Perform complex calculations on groups of rows.
 
-3. **Nested and Repeated Data**
+9. **Nested and Repeated Data**
         
     Learn to query complex datatypes in BigQuery.
 
-4. **Writing Efficient Queries**
+10. **Writing Efficient Queries**
         
     Write queries to run faster and use less data.
 
