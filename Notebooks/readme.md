@@ -1,7 +1,7 @@
 
 # Notebooks of the Kaggle Course '**Intro to SQL**' & '**Advanced SQL**' with extra info added to them.
 
-#### Intro to SQL: Learn SQL for working with databases, using Google BigQuery.
+### Intro to SQL: Learn SQL for working with databases, using Google BigQuery.
 1. **Getting Started With SQL and BigQuery**
     
     Learn the workflow for handling big datasets with BigQuery and SQL
@@ -28,7 +28,7 @@
 
 
 
-#### Advanced SQL: Take your SQL skills to the next level.
+### Advanced SQL: Take your SQL skills to the next level.
 
 
 1. **JOINs and UNIONs**
@@ -47,4 +47,4 @@
         
     Write queries to run faster and use less data.
 
-        To open any notebook in Colab, just open the Github notebook or whatever you want to work in Google Colab, and change the domain from 'github.com' to 'githubtocolab.com'. 
+> To open any notebook in Colab, just open the Github notebook or whatever you want to work in Google Colab, and change the domain from 'github.com' to 'githubtocolab.com'. 
