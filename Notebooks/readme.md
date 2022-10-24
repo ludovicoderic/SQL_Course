@@ -5,7 +5,7 @@
 ## Intro to SQL: Learn SQL for working with databases, using Google BigQuery.
 ### 01. **Getting Started With SQL and BigQuery**
     
-&emsp; Learn the workflow for handling big datasets with BigQuery and SQL
+&emsp; &emsp; Learn the workflow for handling big datasets with BigQuery and SQL
 
 ### 02. **Select, From & Where**
 
