@@ -1,23 +1,23 @@
 
 # Notebooks of the Kaggle Course '**Intro to SQL**' & '**Advanced SQL**' with extra info added to them.
 
-## Intro to SQL: Learn SQL for working with databases, using Google BigQuery.
+#### Intro to SQL: Learn SQL for working with databases, using Google BigQuery.
 1. Getting Started With SQL and BigQuery
-> Learn the workflow for handling big datasets with BigQuery and SQL
+  Learn the workflow for handling big datasets with BigQuery and SQL
 2. Select, From & Where
-> The foundational compontents for all SQL queries
+  The foundational compontents for all SQL queries
 3. Group By, Having & Count
-> Get more interesting insights directly from your SQL queries
+  Get more interesting insights directly from your SQL queries
 4. Order By
-> Order your results to focus on the most important data for your use case.
+  Order your results to focus on the most important data for your use case.
 5. As & With
-> Organize your query for better readability. This becomes especially important for complex queries.
+  Organize your query for better readability. This becomes especially important for complex queries.
 6. Joining Data
-> Combine data sources. Critical for almost all real-world data problems
+  Combine data sources. Critical for almost all real-world data problems
 
 
 
-## Advanced SQL: Take your SQL skills to the next level.
+#### Advanced SQL: Take your SQL skills to the next level.
 
 
 1. JOINs and UNIONs
