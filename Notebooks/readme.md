@@ -3,7 +3,6 @@
 
 #### Intro to SQL: Learn SQL for working with databases, using Google BigQuery.
 1. Getting Started With SQL and BigQuery
-
     Learn the workflow for handling big datasets with BigQuery and SQL
 
 2. Select, From & Where
