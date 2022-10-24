@@ -9,23 +9,23 @@
 
 ### 02. **Select, From & Where**
 
-&emsp; The foundational compontents for all SQL queries
+&emsp; &emsp;  The foundational compontents for all SQL queries
 
 ### 03. **Group By, Having & Count**
 
-&emsp; Get more interesting insights directly from your SQL queries
+&emsp; &emsp; Get more interesting insights directly from your SQL queries
 
 ### 04. **Order By**
 
-&emsp; Order your results to focus on the most important data for your use case.
+&emsp; &emsp; Order your results to focus on the most important data for your use case.
 
 ### 05. **As & With**
 
-&emsp; Organize your query for better readability. This becomes especially important for complex queries.
+&emsp; &emsp; Organize your query for better readability. This becomes especially important for complex queries.
 
 ### 06. **Joining Data**
         
-&emsp; Combine data sources. Critical for almost all real-world data problems
+&emsp; &emsp; Combine data sources. Critical for almost all real-world data problems
 
 ---
 
@@ -33,19 +33,19 @@
 
 ### 07. **JOINs and UNIONs**
 
-&emsp; Combine information from multiple tables.
+&emsp; &emsp; Combine information from multiple tables.
 
 ### 08. **Analytic Functions**
         
-&emsp; Perform complex calculations on groups of rows.
+&emsp; &emsp; Perform complex calculations on groups of rows.
 
 ### 09. **Nested and Repeated Data**
         
-&emsp; Learn to query complex datatypes in BigQuery.
+&emsp; &emsp; Learn to query complex datatypes in BigQuery.
 
 ### 10. **Writing Efficient Queries**
         
-&emsp; Write queries to run faster and use less data.
+&emsp; &emsp; Write queries to run faster and use less data.
 
 ---
 
